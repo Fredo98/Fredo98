@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Fredo98/Fredo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send me a DM...
 - 😄 Pronouns: Fredo :P ...
 - ⚡ Fun fact: Me fusta tomar matesitos y escuchar musica copada, de perrear ni hablemos ...
--->
+
 Hola mundo :D
